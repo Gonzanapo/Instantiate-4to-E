@@ -15,7 +15,7 @@ public class DataManager : MonoBehaviour
     }
     public void ShowNumDouble()
     {
-        //Debug.Log(int.Parse(txtNum.text * 2));
+        Debug.Log(int.Parse(txtNum.text) * 2);
     }
 
 }
